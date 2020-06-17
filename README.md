@@ -1,5 +1,6 @@
 # vue移动端demo
 ###### 功能：rem自适应+路由切换动画
+[效果](https://hchow521.github.io/vue-mobile-demo/)
 
 ## Project setup
 ```
